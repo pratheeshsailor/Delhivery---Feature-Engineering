@@ -75,9 +75,12 @@ segment_osrm_distance – This is the OSRM distance. Distance covered by subset 
 
 segment_factor – Unknown field
 # Concept Used:
-
 Feature Creation
+
 Relationship between Features
+
 Column Normalization /Column Standardization
+
 Handling categorical values
+
 Missing values - Outlier treatment / Types of outliers
